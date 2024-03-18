@@ -29,6 +29,10 @@
 
 ---
 
+## 🌿 페이지 구성
+
+![](/페이지구조.png)
+
 ## 🌿 입력
 
 ![markdownimg](https://github.com/badajinsee/camelcase/assets/121417902/787bd25c-334d-4522-9cd0-66d4af3e76c5)
