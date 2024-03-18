@@ -17,9 +17,9 @@ const Camel = () => {
         if (index === 0) {
           return word;
         }
-        const firstLetterCap = word.charAt(0).toUpperCase();
-        const remainingLetters = word.slice(1);
-        return firstLetterCap + remainingLetters;
+        const firstLetter = word.charAt(0).toUpperCase();
+        const remainingLetter = word.slice(1);
+        return firstLetter + remainingLetter;
       })
       .join("");
 
