@@ -13,7 +13,12 @@ function App() {
 
       <div className="bottom">
         <span>sunjin</span>
-        <a href="https://github.com/badajinsee">깃헙 바로가기</a>
+        <a
+          href="https://github.com/badajinsee/camelcase"
+          rel="noopener noreferrer"
+        >
+          깃헙 바로가기
+        </a>
       </div>
     </>
   );
