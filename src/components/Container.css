@@ -1,0 +1,60 @@
+.entire {
+  width: 500px;
+  height: 300px;
+}
+
+.h2Text {
+  margin-bottom: 5px;
+  font-size: xx-large;
+}
+
+.spanCamel {
+  padding-bottom: 10px;
+}
+
+.clip {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.input {
+  border-radius: 5px;
+
+  width: 300px;
+  height: 35px;
+
+  background-color: seashell;
+
+  padding: 5px;
+
+  margin-right: 10px;
+
+  font-size: medium;
+}
+
+.inputContainer {
+  margin-left: 100px;
+}
+
+.button {
+  border-radius: 10px;
+  background-color: cornsilk;
+
+  border: black;
+}
+
+.h3Text {
+  margin-right: 10px;
+}
+
+.span {
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 30px;
+
+  display: flex;
+  flex-direction: column;
+}
