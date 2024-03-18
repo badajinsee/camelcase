@@ -68,10 +68,10 @@ const Camel = () => {
     <>
       <div className="entire">
         <div>
-          <h2 className="h2Text">⭐️ 카멜케이스 변환</h2>
+          <h2 className="h2Text">🐪 카멜케이스 변환</h2>
           <div className="span">
             <span className="spanCamel">
-              카멜이 필요한 부분 앞에 -를 넣어주세요
+              카멜이 필요한 부분 앞에 -를 넣어주세요.
             </span>
             <span>EX : type-script ➡️ typeScript</span>
           </div>
